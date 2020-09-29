@@ -1,0 +1,22 @@
+PODS:
+  - Mux-Stats-Core (2.3.0)
+
+DEPENDENCIES:
+  - Mux-Stats-Core (from `https://github.com/muxinc/stats-sdk-objc.git`, branch `nidhik/xcframework`)
+
+EXTERNAL SOURCES:
+  Mux-Stats-Core:
+    :branch: nidhik/xcframework
+    :git: https://github.com/muxinc/stats-sdk-objc.git
+
+CHECKOUT OPTIONS:
+  Mux-Stats-Core:
+    :commit: caee1ea99d9685630669e9f39adc2401bfbc97e3
+    :git: https://github.com/muxinc/stats-sdk-objc.git
+
+SPEC CHECKSUMS:
+  Mux-Stats-Core: 1352ffdb1875494013fbd1ef4a68deccc4939047
+
+PODFILE CHECKSUM: 15479acbedeae9143580709019b584d08fa732e6
+
+COCOAPODS: 1.9.3
